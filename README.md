@@ -23,5 +23,5 @@ Alguns pontos importantes sobre o Java:
 
 ## Referências
 
-* [B7Web](https://lp.b7web.com.br/curso-g)
+* [Udemy](https://www.udemy.com/course/fundamentos-de-programacao-com-java/)
 * [Chat-GPT](https://chatgpt.com/)
