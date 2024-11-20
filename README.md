@@ -7,6 +7,19 @@ Curso completoa sobre Java da Udemy
 # Sumário
 
 * [Introdução](#introdução)
+* [Variáveis ​​e Constantes](/notes/variables_constants.md#variáveis-e-constantes)
+    * [Variáveis](/notes/variables_constants.md#variáveis)
+    * [Constantes](/notes/variables_constants.md#constantes)
+    * [Diferenças entre Variáveis e Constantes](/notes/variables_constants.md#diferenças-entre-variáveis-e-constantes)
+    * [Escopo de Variáveis](/notes/variables_constants.md#escopo-de-variáveis)
+    * [Palavras-chave importantes](/notes/variables_constants.md#palavras-chave-importantes)
+    * [Boas Práticas](/notes/variables_constants.md#boas-práticas)
+* [Tipos Primitivos](/notes/primitive_types.md#tipos-primitivos)
+    * [Características Gerais dos Tipos Primitivos](/notes/primitive_types.md#características-gerais-dos-tipos-primitivos)
+    * [Os Oito Tipos Primitivos](/notes/primitive_types.md#os-oito-tipos-primitivos)
+    * [Tabela Resumida dos Tipos Primitivos](/notes/primitive_types.md#tabela-resumida-dos-tipos-primitivos)
+    * [Conversão entre Tipos Primitivos](/notes/primitive_types.md#conversão-entre-tipos-primitivos)
+    * [Boas Práticas com Tipos Primitivos](/notes/primitive_types.md#boas-práticas-com-tipos-primitivos)
 * [Referências](#referências)
 
 ## Introdução
